@@ -1,0 +1,11 @@
+{
+  "id": "com.app.stanbymesketch-enact",
+  "version": "1.0.0",
+  "vendor": "LG Electronics.",
+  "type": "web",
+  "main": "index.html",
+  "title": "Enact Sketch",
+  "icon": "icon.png",
+  "largeicon": "largeIcon.png",
+  "supportTouchMode": "full"
+}
